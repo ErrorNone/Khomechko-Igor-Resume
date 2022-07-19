@@ -1,0 +1,16 @@
+@import "../../../style/vars.scss";
+
+.skills {
+  li {
+    position: relative;
+    color: $white;
+    letter-spacing: 2px;
+    line-height: 26px;
+
+    &:before {
+      color: $pink;
+      content: "▪";
+      padding-right: 10px;
+    }
+  }
+}

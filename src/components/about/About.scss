@@ -1,0 +1,84 @@
+@import "../../style/vars.scss";
+
+.section__about {
+  background-color: $black-primary;
+  padding-top: 50px;
+  margin-top: -50px;
+  -webkit-background-clip: content-box;
+  background-clip: content-box;
+
+  .container__about {
+    .about__body {
+      display: flex;
+      padding: 50px 0;
+
+      .about__img__container {
+        height: 80vh;
+        flex: 1 1 50%;
+
+        .about__img {
+          background-image: url("../../common/img/my_photo.jpg");
+          background-size: cover;
+          height: 80vh;
+          padding: 20px;
+          border-radius: 10px;
+        }
+      }
+
+      .about__me {
+        padding-left: 30px;
+        flex: 1 1 50%;
+
+        .about__text {
+          h2 {
+            color: $white;
+            font-size: 54px;
+            padding-bottom: 20px;
+          }
+
+          p {
+            color: $white;
+            font-size: 16px;
+            line-height: 18px;
+            color: $gray-bright;
+            padding-bottom: 20px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 758px) {
+  .section__about {
+    .container__about {
+      .about__body {
+        display: block;
+
+        .about__img {
+          margin: 0 auto;
+          max-width: 90%;
+        }
+
+        .about__me {
+          max-width: 90%;
+          margin: 0 auto;
+          padding: 20px 0 0 0;
+
+          .about__text {
+            h2 {
+              font-size: 42px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 631px) {
+  .about__me {
+    margin-top: 20px;
+    padding: 0 15px;
+  }
+}
