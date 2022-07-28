@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Khomechko-Igor-Resume/static/css/main.2afc468a.chunk.css",
+    "main.js": "/Khomechko-Igor-Resume/static/js/main.15ada5ba.chunk.js",
+    "main.js.map": "/Khomechko-Igor-Resume/static/js/main.15ada5ba.chunk.js.map",
+    "runtime-main.js": "/Khomechko-Igor-Resume/static/js/runtime-main.39041de2.js",
+    "runtime-main.js.map": "/Khomechko-Igor-Resume/static/js/runtime-main.39041de2.js.map",
+    "static/js/2.6df81f11.chunk.js": "/Khomechko-Igor-Resume/static/js/2.6df81f11.chunk.js",
+    "static/js/2.6df81f11.chunk.js.map": "/Khomechko-Igor-Resume/static/js/2.6df81f11.chunk.js.map",
+    "index.html": "/Khomechko-Igor-Resume/index.html",
+    "static/css/main.2afc468a.chunk.css.map": "/Khomechko-Igor-Resume/static/css/main.2afc468a.chunk.css.map",
+    "static/js/2.6df81f11.chunk.js.LICENSE.txt": "/Khomechko-Igor-Resume/static/js/2.6df81f11.chunk.js.LICENSE.txt",
+    "static/media/codewars.2b5cf981.svg": "/Khomechko-Igor-Resume/static/media/codewars.2b5cf981.svg",
+    "static/media/Contacts.scss": "/Khomechko-Igor-Resume/static/media/contacts_img.70431988.jpeg",
+    "static/media/Projects.scss": "/Khomechko-Igor-Resume/static/media/fon.f6088e15.jpeg",
+    "static/media/github.9bd6eaba.svg": "/Khomechko-Igor-Resume/static/media/github.9bd6eaba.svg",
+    "static/media/About.scss": "/Khomechko-Igor-Resume/static/media/my_photo.5d2e99ee.jpg",
+    "static/media/telegram.9237edc0.svg": "/Khomechko-Igor-Resume/static/media/telegram.9237edc0.svg",
+    "static/media/vk.5eac0744.svg": "/Khomechko-Igor-Resume/static/media/vk.5eac0744.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39041de2.js",
+    "static/js/2.6df81f11.chunk.js",
+    "static/css/main.2afc468a.chunk.css",
+    "static/js/main.15ada5ba.chunk.js"
+  ]
+}

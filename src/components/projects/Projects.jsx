@@ -20,7 +20,7 @@ const Projects = () => {
         "In this project I use React, Redux, React-Router-Dom, React-Bootstrap, SCSS, Axios",
       id: 2,
       active: false,
-      href: "https://igor-khomechko.herokuapp.com/concert-club",
+      href: "https://errornone.github.io/concert-club/",
     },
   ]);
   const isMobile = {
